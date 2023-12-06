@@ -1,0 +1,9 @@
+{
+  "FilePaths": {
+    "ExcelFilePath": "C:\\Local Data\\CPDBA_USER_GROUP_tab.xlsx",
+    "TextFilePath": "C:\\Local Data\\CPDBA.SECURITY.MAIN.FRAME.TXT"
+  },
+  "ConnectionStrings": {
+    "MFDatabase": "Driver=SQL Server; Server=AWSVAMFRRDS01D.njt.gov; Database=mf_config; Integrated Security=true; Encrypt=false"
+  }
+}
